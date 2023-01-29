@@ -1,6 +1,6 @@
 # Open Source Development
 
-Name: Xinghang Sun
+Name: Xinghang
 
 UNI: xs2421
 
@@ -8,7 +8,7 @@ Github: [link](https://github.com/everssun)
 
 
 ## Project Proposal
-TBD
+TBD 
 
 ## Project Contributions
 TBD
