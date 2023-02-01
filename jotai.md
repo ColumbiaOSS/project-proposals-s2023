@@ -13,4 +13,6 @@ While the main documentation page looks pretty good, beginners would benefit fro
 
 I plan to work on expanding the lessons & updating some of them to use the new features of jotai v2.
 
+One simple ui fix that I want to implement has to do with the selection highlight color. It is currenty black which is ok on the light mode of the website, but in the dark mode of the website it is impossible to figure out what text you are selecting. 
+
 If I can't find much work to do on jotai-tutorial, then ![jotai-devtools](https://github.com/jotaijs/jotai-devtools) also looks like a repository that I can contribute to.
