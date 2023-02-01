@@ -1,1 +1,17 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Project Contribution: Faker
+
+[![](https://img.shields.io/badge/faker-repo-blue)](https://github.com/joke2k/faker)
+
+## Description
+
+*Faker* is a Python package that generates fake data for you. Whether
+you need to bootstrap your database, create good-looking XML documents,
+fill-in your persistence to stress test it, or anonymize data taken from
+a production service, Faker is for you.
+
+Faker is heavily inspired by `PHP Faker`_, `Perl Faker`_, and by `Ruby Faker`_.
+
+## Issues
+- [Address generator keeps generating US based addresses #1762](https://github.com/joke2k/faker/issues/1762)
+- [Add French equivalents of Dutch Address, Phone_number, Ssn providers for Belgium #1782](https://github.com/joke2k/faker/issues/1782)
+- [name_female generates mixed names #1770](https://github.com/joke2k/faker/issues/1770)
