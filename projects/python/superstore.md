@@ -1,1 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Project Contributions
+
+At the moment, my most likely idea is to expand the Superstore fake data creator. I would raise a feature request to make it more customizable, with more potential 'situations' of fake data: not just a store, but also an office building, a school or university, and so on. 
+
+The fake data creator could be used to fill in data visualizations, but also to test data cleaning or handling.
