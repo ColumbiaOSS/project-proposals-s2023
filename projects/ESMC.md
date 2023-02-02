@@ -1,6 +1,6 @@
 # Explicit State Model Checker
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/timkpaine/temporal-cache-js)
+[![](https://img.shields.io/badge/project-link-green)]()
 
 ## Description
 `temporal-cache` is a library for caching function calls. However, in contrast with many other caching libraries, it evicts entries in the cache not based on capacity, but based on clock time or time since last call. It has two main features:
