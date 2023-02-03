@@ -1,4 +1,4 @@
-# Explicit State Model Checker
+# Model Checking Toolbox
 
 [![](https://img.shields.io/badge/project-link-green)]()
 
