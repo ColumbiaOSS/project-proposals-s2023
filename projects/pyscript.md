@@ -8,4 +8,4 @@ PyScript is a meta project that aims to combine multiple open technologies into 
 
 ## Issues
 
-[BUG: np.polyfit produces a broadcasting error internally with full=False](https://github.com/pyscript/pyscript/issues/801)
+[BUG: Not All Browser Events are Represented in py-on* Events](https://github.com/pyscript/pyscript/issues/801)
