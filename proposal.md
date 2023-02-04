@@ -1,4 +1,4 @@
-## Project Proposal
+## Project Proposal Description
 A python library for extracting palettes from images: 
 - Input file: image, url
 - Functions:  
