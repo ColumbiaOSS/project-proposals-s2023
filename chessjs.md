@@ -5,4 +5,5 @@
 # issues
 
 [Fix request. Some FENs break the library.](https://github.com/jhlywa/chess.js/issues/301)
+
 [Request feature: Add 2 more sloppy rules for make move.](https://github.com/jhlywa/chess.js/issues/262)
