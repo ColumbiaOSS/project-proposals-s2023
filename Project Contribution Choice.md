@@ -7,3 +7,6 @@
 <a href="https://github.com/matplotlib/matplotlib/issues" target="_blank" rel="noreferrer">matplotlib</a>
 
 <a href="https://github.com/Rapptz/discord.py/issues" target="_blank" rel="noreferrer">discord.py</a>
+
+- An API wrapper for Discord written in Python. I can use this to obtain information like messages from it through its use of events. It can be used to create applications in Python that want to make use of the Discord API.
+- <a href="https://github.com/Rapptz/discord.py/issues/7536" target="_blank" rel="noreferrer">Button cooldown</a> issue
