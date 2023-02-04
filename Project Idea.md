@@ -19,6 +19,8 @@
   - Show desired box scores
   - Favorite player stats
   - Color themes?
+
+  </br>
   
   <h3> APIs currently being considered:</h3>
   
