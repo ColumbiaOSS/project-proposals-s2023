@@ -14,6 +14,12 @@
   
   </br>
   
+  <h3> Primary goals:</h3>
+  
+  - Show desired box scores
+  - Favorite player stats
+  - Color themes?
+  
   <h3> APIs currently being considered:</h3>
   
   - <a href="https://developer.sportradar.com/docs/read/basketball/NBA_v5" target="_blank" rel="noreferrer">NBA v5 Sportradar US API</a>
