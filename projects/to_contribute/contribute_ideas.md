@@ -4,6 +4,22 @@ At the moment, I would most like to contribute to [Krita](https://invent.kde.org
 
 Also, on reflection, if I'm allowed to raise my own issues, there's stuff I'd like to work on--e.g., my idea for the Superstore fake data creator would be good as a response to a feature request.
 
+Aside from those:
+
+Libraries with Good First Issues:
+OpenLibrary!! https://github.com/internetarchive/openlibrary 
+
+Places to keep searching:
+First Contributions
+hacktoberfest · GitHub Topics 
+https://goodfirstissue.dev/ (not so great)
+https://github.com/topics/good-first-issue   
+Up For Grabs
+
+Some random ones:
+“scrapy” good first issue looks hard
+
+
 Aside from those, I have included the libraries I know *of*, but I don't know anything about the internals of any of them, and for most, I barely know one or two functions. I'm having trouble finding beginner-friendly issues that aren't taken.
 
 - numpy
