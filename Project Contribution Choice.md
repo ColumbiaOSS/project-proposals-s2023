@@ -4,7 +4,9 @@
 
 <a href="https://github.com/numpy/numpy/issues" target="_blank" rel="noreferrer">numpy</a>
 
-<a href="https://github.com/matplotlib/matplotlib/issues" target="_blank" rel="noreferrer">matplotlib</a>
+<a href="https://github.com/pytest-dev/pytest" target="_blank" rel="noreferrer">pytest</a>
+- The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
+- <a href="https://github.com/pytest-dev/pytest/issues/10613" target="_blank" rel="noreferrer">Prepend instead of append</a> issue
 
 <a href="https://github.com/Rapptz/discord.py/issues" target="_blank" rel="noreferrer">discord.py</a>
 
