@@ -1,4 +1,4 @@
-<h1 align="center"> Chrome extension for NBA scores and specific player data </h1>
+<h1 align="center"> Chrome extension for NBA scores and favorite player data </h1>
 
 </br>
 
@@ -16,7 +16,7 @@
   
   - Show desired box scores
   - Favorite player stats
-  - Color themes?
+  - Color/team themes?
 
   </br>
   
