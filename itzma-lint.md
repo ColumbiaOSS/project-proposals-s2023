@@ -1,4 +1,4 @@
-<h1 align="center"> ITZMA Lint (It's my lint!)</h1>
+<h1 align="center"> ⭑･ﾟﾟ･*:༅｡.｡༅:*ﾟ:*:✼✿ &ensp; ITZMA Lint (It's my lint!) &ensp; ✿✼:*ﾟ:༅｡.｡༅:*･ﾟﾟ･⭑ </h1>
 <p align="center"> "Your Lint, Your Rules" </p>
 
 Do you love using a linter but want even more personalized rules? Building off a traditional lint, ITZMA offers additional features such as:
