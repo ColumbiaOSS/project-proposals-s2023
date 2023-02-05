@@ -1,4 +1,4 @@
-##Spotify to Apple Music Converter 
+## Spotify to Apple Music Converter 
 
 For my project, I want to build a two way converter from Apple Music to Spotify and vice-versa. One of the challenges with migrating to a music streaming platfrom
 is that users have to manually transfer their catalog of music built up over years. For some, this task is too difficult to do manually because of the sheer number
