@@ -7,4 +7,4 @@ Numpy is a Python library that provides a multidimensional array object and vari
 
 ## Issue
 
-- [link](https://github.com/numpy/numpy/issues/23083)
+- [Issude: BUG: Assign scalars into new arrays with subarray dims fails for higher dimensions](https://github.com/numpy/numpy/issues/23083)
