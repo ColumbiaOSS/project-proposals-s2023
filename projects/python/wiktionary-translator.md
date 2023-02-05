@@ -1,7 +1,7 @@
 
 # wiktionary-translator
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/darthbeep/wiktionary-translator-js)
+[![](https://img.shields.io/badge/project-link-green)](https://github.com/darthbeep/wiktionary-translator)
 
 ## Description
 
