@@ -1,1 +1,10 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Numpy
+
+[![](https://img.shields.io/badge/Dash-repo-blue)](https://github.com/numpy/numpy)
+[![](https://img.shields.io/badge/Dash-document-lightblue)](https://numpy.org/doc/)
+
+Numpy is a Python library that provides a multidimensional array object and various derived objects. It is widely used plotting, sorting, etc.
+
+## Issue
+
+- [Issude: BUG: Assign scalars into new arrays with subarray dims fails for higher dimensions](https://github.com/numpy/numpy/issues/23083)
