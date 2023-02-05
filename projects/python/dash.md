@@ -1,5 +1,5 @@
 
-# Numpy
+# Dash
 
 [![](https://img.shields.io/badge/Dash-docs-green)](https://dash.plotly.com)
 [![](https://img.shields.io/badge/Dash-repo-blue)](https://github.com/plotly/dash)
