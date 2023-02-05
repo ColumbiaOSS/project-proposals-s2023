@@ -10,5 +10,4 @@ MyApp's props.pageProps instead of MyApp's props"
 
 The issue here is that TypeScript types should be correctly reflecting runtime times, as "props.foo" is not recognized 
 to exist at runtime while props.pageProps.foo is recognized without error even though it does not exist at runtime.
-![img.png](img.png)
 Link to Bug on GitHub: [link](https://github.com/vercel/next.js/issues/42846)
