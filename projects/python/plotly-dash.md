@@ -1,1 +1,10 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Plotly-Dash
+
+ [![](https://img.shields.io/badge/Dash-docs-green)](https://dash.plotly.com)
+ [![](https://img.shields.io/badge/Dash-repo-blue)](https://github.com/plotly/dash)
+
+Dash is a library of Plotly specifically intended for displaying and visualizing dashboards and data apps in Python.
+
+ ## Issues
+
+ - [[BUG] dashtable with pagination: tooltips appear in wrong place](https://github.com/plotly/dash/issues/1848)
