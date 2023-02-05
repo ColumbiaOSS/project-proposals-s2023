@@ -13,4 +13,4 @@ Mingly allows users to:
 I would like to contribute to Mingly by:
 
 * Making Mingly more secured with a proper login system or hashed passwords ([related issue](https://github.com/tchitrakorn/Mingly/issues/8))
-* Correctly updating events page after a new event has been added (no issue available)
+* Correctly updating events page after a new event has been added (no issue available but the bug is most likely related to React hooks)
