@@ -9,3 +9,14 @@ embed in JupyterLab and Graphical User Interfaces, and use a rich array of third
 - [ENH: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
 - [[Bug]: Error showing colorbar when contouring a uniform field](https://github.com/matplotlib/matplotlib/issues/23817)  
 - [No error message in matplotlib.axes.Axes.legend() if there are more labels than handles](https://github.com/matplotlib/matplotlib/issues/24050)
+
+# Matplotlib (los2119)
+
+[![Matplotlib documentation](https://img.shields.io/badge/Matplotlib-docs-green)](https://matplotlib.org/stable/index.html)
+[![Matplotlib repository](https://img.shields.io/badge/Matplotlib-repo-blue)](https://github.com/matplotlib/matplotlib)
+
+Matplotlib is a 2D plotting library for Python - it produces publication-quality figures in different hardcopy formats.
+
+## Issues (los2119)
+
+- [ENH: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
