@@ -33,6 +33,3 @@ Inspired by the popularity of chatGPT, this project involves creating a voice re
 - Recognizing and Classifying People in Pictures
 
 This project uses the torch library to classify only person pictures among various types of pictures and move them to a specific folder.
-
-
-Since I do not have an extensive background in github/open source projects, I might need to change the topic I would like to work on for this semester - but I am willing to work on one of these projects for now!
