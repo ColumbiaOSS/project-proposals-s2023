@@ -7,6 +7,6 @@ As part of this project, I would like to implement a mini Python library that wi
 - generic functionality to compute alignment between a sequence of natural language annotations
 - perform zero-shot image classification via pre-trained CLIP on an input image.
 
-While this tool would be handy for CLIP users, I would like to enable this project to further contribute to my research, which (in a nutshell) utilizes CLIP to predict the current state of a text progression, visually and grounded by natural language. I will be brain-storming further about a helper tool that would help me developing my project's code base. 
+While this tool would be handy for CLIP users, I would like to enable this project to further contribute to my research, which (in a nutshell) utilizes CLIP to predict the current state of a text progression, visually and grounded by natural language. I will be brain-storming further about a helper tool that could help me (and other developers in the community using VLMs) during my research project.
 
 For reference, CLIP by OpenAI: [link](https://openai.com/blog/clip/)
