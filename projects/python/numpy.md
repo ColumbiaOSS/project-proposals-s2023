@@ -1,4 +1,4 @@
-# numpy-second-choice-contribution
+# numpy-contribution to open source
 
 # Numpy
 
