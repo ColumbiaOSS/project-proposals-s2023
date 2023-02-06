@@ -1,10 +1,10 @@
 # Mupen64Plus and mupen64plus-ui-python
 
-[Documentation](https://mupen64plus.org/docs/)
+- [Documentation](https://mupen64plus.org/docs/)
 
-[Github](https://github.com/mupen64plus/)
+- [Github](https://github.com/mupen64plus/)
 
-[Github UI Python](https://github.com/mupen64plus/mupen64plus-ui-python)
+- [Github UI Python](https://github.com/mupen64plus/mupen64plus-ui-python)
 
 # Description
 Mupen64Plus is a cross-platform plugin-based Nintendo 64 emulator. It is
