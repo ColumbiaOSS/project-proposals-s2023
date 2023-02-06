@@ -7,6 +7,5 @@ GeoPandas is a project to add support for geographic data to pandas objects. It 
 
 ## Issues
 
-- [BUG: GeoDataFrame.iterfeatures with na='drop' crashes on non-scalar columns]
-(https://github.com/geopandas/geopandas/issues/2684)
+- [BUG: GeoDataFrame.iterfeatures with na='drop' crashes on non-scalar columns](https://github.com/geopandas/geopandas/issues/2684)
 
