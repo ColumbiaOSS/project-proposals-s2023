@@ -1,4 +1,4 @@
-# download-videos
+# fast-downloads
 
 ## Description
 
