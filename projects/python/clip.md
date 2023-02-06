@@ -1,4 +1,4 @@
-# clip
+# using-clip
 
 Currently, CLIP (Contrastive Language–Image Pre-training) - a SOTA Visual Language Model - by OpenAI enables users to map between images and natural language. Howewer, to make zero-shot predictions, CLIP users have to go through a manual process of implementing, otherwise boilerplate, functionality to get a pre-trained CLIP instance up and running on a Jupyter Notebook. 
 
