@@ -10,5 +10,5 @@ Why it's important: Because the extension can set up speed and caption preferenc
 The speed preference is another useful feature. As a student, I know that we often want to watch tutorials or hear lectures on various concepts but may be under a time constraint. And if we change speed options for a video on YouTube, we either have to pause the video to do this or miss some time from the video, which can be inconvienent to do over and over especially if someone is watching a series of videos on a particular technology, for instance. This Chrome Extension will have any easy-to-use interface to download videos in faster speed in bulk so that the user can easily watch them whenever it is convenient for them.
 
 This 'fast-downloads' Chrome Extension has 2 main features:
-- allow users to customize speed and caption options before downloading
-- can download multiple videos from Youtube to "Downloads" folder in parallel
+- Customization: allow users to customize speed and caption options before downloading (embed those options into the video)
+- Efficiency: can download multiple videos from Youtube to "Downloads" folder in parallel
