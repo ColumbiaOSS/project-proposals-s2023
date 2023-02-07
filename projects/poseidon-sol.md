@@ -6,7 +6,13 @@ poseidon hash function: https://www.poseidon-hash.info/home
 - paper: https://eprint.iacr.org/2019/458.pdf
 
 - implementation in Go: https://github.com/iden3/go-iden3-crypto/tree/master/poseidon
-- implementation in Js: https://github.com/Janmajayamall/poseidon-js
+- implementation in JS: https://github.com/iden3/circomlibjs/blob/main/src/poseidon_gencontract.js
+- another implementation in JS: https://github.com/Janmajayamall/poseidon-js
+
+### Background
+The existing Poseidon hash function implementation for EVM is written in JS, and it is performant but it could be more unreadable. Also, if you write a smart contract in Solidity, it has to link the bytecode or call an external contract address to use poseidon hash, which is inconvenient. In the future, Poseidon hash will be implemented as a precompile contract in the Ethereum protocol (https://eips.ethereum.org/EIPS/eip-5988), so that people can call it with cheap gas. However, it would still be valuable to have a reference Poseidon Solidity implementation as a benchmark baseline.
+
+
 
 
 ### Todo:
