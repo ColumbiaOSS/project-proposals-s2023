@@ -2,4 +2,5 @@
 
 Project Proposals for Spring 2023
 
-My project proposal in this repo is found in: `kk3610.md`.
+Put your project proposal in this repo in the form: `<uni>.md`.
+E.g. for me, i would make a file called `tkp2108.md`.
