@@ -13,3 +13,4 @@ poseidon hash function: https://www.poseidon-hash.info/home
 - https://github.com/iden3/circomlibjs/blob/main/src/poseidon_gencontract.js#L23
 1. tweak this script to output assembly instructions instead of bytecode
 2. write a solidity contract by putting the assembly inline in a function
+3. test that the assembly implementation outputs the same hashes as the regular implementation
