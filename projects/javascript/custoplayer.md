@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/Etesam913/Custoplayer)
 
+[Repository Link](https://github.com/Etesam913/custoplayer)
+
 ## Description
 
 `custoplayer` is a react.js package for helping developers quickly create customizable video players. The package will allow developers to add progress bars, volume bars, play buttons, and many other components to their video player.
