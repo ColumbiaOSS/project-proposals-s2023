@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Mitiq-docs-green)](https://mitiq.readthedocs.io/en/stable/)
 [![](https://img.shields.io/badge/Mitiq-repo-blue)](https://github.com/unitaryfund/mitiq)
 
-Mitq is an open source library for error mitigation techniques on quantum computers.
+Mitiq is an open source library for error mitigation techniques on quantum computers.
 
 From the official Mitiq page,the motivation behind this library: "Current quantum computers are noisy due to interactions with the environment, imperfect gate applications, state preparation and measurement errors, etc. Error mitigation seeks to reduce these effects at the software level by compiling quantum programs in clever ways."
 
