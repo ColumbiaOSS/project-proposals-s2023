@@ -1,5 +1,5 @@
-# Project Contribution: C-Plus-Plus
-[![](https://img.shields.io/badge/C--Plus--Plus-repo-green)](https://github.com/TheAlgorithms/C-Plus-Plus)
+# Project Contribution: TheAlgorithms-Python
+[![](https://img.shields.io/badge/TheAlgorithms--Python-repo-green)](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 ## Description
 - This repository is a collection of open-source implementation of a variety of algorithms implemented in Python.
