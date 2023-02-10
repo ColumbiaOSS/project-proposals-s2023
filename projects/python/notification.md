@@ -4,3 +4,6 @@ The project involves creating a program that reads gmail and sends notifications
 
 ## Description
 For this project, I need to find a way to use Gmail on Python first.
+
+- Create code to read email content
+- Create a code to send a message when you receive an email with a specific keyword
