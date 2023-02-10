@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 [calculator](https://github.com/danthareja/contribute-to-open-source/issues/1)
 
 The project has a scenario where I am at a calculator company and there are some unnecessary parts in our code that need to be fixed.
