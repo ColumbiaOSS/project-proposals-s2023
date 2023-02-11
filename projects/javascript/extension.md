@@ -11,4 +11,4 @@ UNI: ua2182
 - To learn a new language, it's always good to watch content in the language you want to learn, though we expect to come across a lot of words we don't know. So instead of switching the language all the time, it's useful to just click on a word get the translation in the desired language.
 
 ## Which technologies
-The main programming language appears to be Javascript. I may need to use some other programming languages to help with it, but mainly it'll be Javascript.
+- The main programming language appears to be Javascript. I may need to use some other programming languages to help with it, but mainly it'll be Javascript.
