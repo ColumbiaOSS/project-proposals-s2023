@@ -1,5 +1,3 @@
 # Numpy
 
-## Issues
-
-- [BUG: Inconsistent complex-->float casting failures](https://github.com/numpy/numpy/issues/23062)
+- Numpy flipping an array diagonally
