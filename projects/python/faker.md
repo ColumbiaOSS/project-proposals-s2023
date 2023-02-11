@@ -5,15 +5,17 @@
 
 ## Description
 
-> _Faker_ is a Python package that generates fake data for you. Whether
-> you need to bootstrap your database, create good-looking XML documents,
-> fill-in your persistence to stress test it, or anonymize data taken from
-> a production service, Faker is for you.
+*Faker* is a Python package that generates fake data for you. Whether
+you need to bootstrap your database, create good-looking XML documents,
+fill-in your persistence to stress test it, or anonymize data taken from
+a production service, Faker is for you.
 
-> Faker is heavily inspired by [PHP Faker](https://github.com/fzaninotto/Faker), [Perl Faker](https://metacpan.org/release/JASONK/Data-Faker-0.07), and by [Ruby Faker](https://github.com/faker-ruby/faker).
+Faker is heavily inspired by `PHP Faker`_, `Perl Faker`_, and by `Ruby Faker`_.
 
 ## Issues
-
+- [Address generator keeps generating US based addresses #1762](https://github.com/joke2k/faker/issues/1762)
+- [Add French equivalents of Dutch Address, Phone_number, Ssn providers for Belgium #1782](https://github.com/joke2k/faker/issues/1782)
+- [name_female generates mixed names #1770](https://github.com/joke2k/faker/issues/1770)
 - [Suggestion: generate valid data for barcode structures](https://github.com/joke2k/faker/issues/1774)
 - [Add French equivalents of Dutch Address, Phone_number, Ssn providers for Belgium](https://github.com/joke2k/faker/issues/1782)
 - [Add dynamic type object generator](https://github.com/joke2k/faker/issues/1779)
