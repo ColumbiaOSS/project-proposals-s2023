@@ -1,5 +1,7 @@
 # PyTorch-NLP-chatbot
 
+[![](https://img.shields.io/badge/project-link-green)](https://github.com/KoroIsCoding/PyTorch-NLP-chatbot)
+
 NLP and its uses in speech interpretation.
 AI and its uses in creating an intelligent responsive chatbot to interact with users.
 Different packages and pre-trained tools are required to create a responsive intelligent chatbot similar to virtual assistants such as ALEXA or Siri.
