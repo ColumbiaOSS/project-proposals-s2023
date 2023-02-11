@@ -1,1 +1,15 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# [pytorch](https://github.com/pytorch/pytorch)
+
+PyTorch is a Python package that provides two high-level features:
+
+- Tensor computation (like NumPy) with strong GPU acceleration
+- Deep neural networks built on a tape-based autograd system
+
+
+Usually, PyTorch is used either as:
+
+- A replacement for NumPy to use the power of GPUs.
+- A deep learning research platform that provides maximum flexibility and speed.
+
+## Issues
+
