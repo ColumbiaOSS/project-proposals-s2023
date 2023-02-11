@@ -5,4 +5,4 @@
 
 ## Issues
 
-- [BUG: circom 2.1.3 doesn't support non quadratic constraints](https://github.com/Unirep/Unirep/issues/289)　
+- [Circome: Add support for external nullifier proofs](https://github.com/Unirep/Unirep/issues/259)　
