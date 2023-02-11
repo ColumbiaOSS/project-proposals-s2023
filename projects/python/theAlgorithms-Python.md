@@ -1,1 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# TheAlgorithms-Python
+
+[![](https://img.shields.io/badge/Algorithms-Python-blue)](https://github.com/TheAlgorithms/Python)
+
+The project includes all algorithms implemented in Python.
+
+I intend to contribute some new algorithms that I have written while participating in algorithm contests and solve some existing issues for this project.
+
+## Issues
+
+- [Concatenate all algorithms with different implementations ](https://github.com/TheAlgorithms/Python/issues/8098)
+- [Importance of caching algorithms](https://github.com/TheAlgorithms/Python/issues/8083)
