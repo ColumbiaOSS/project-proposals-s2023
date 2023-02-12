@@ -1,5 +1,7 @@
 ## Spotify to Apple Music Converter 
 
+[Project repo](https://github.com/Beza4598/project-proposals-s2023.git)
+
 For my project, I want to build a two way converter from Apple Music to Spotify and vice-versa. One of the challenges with migrating to a music streaming platfrom
 is that users have to manually transfer their catalog of music built up over years. For some, this task is too difficult to do manually because of the sheer number
 of playlists and songs, therefore this open source project will decrease the switching cost and give them increased freedom. 
