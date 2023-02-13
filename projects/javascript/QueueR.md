@@ -11,3 +11,6 @@ been "queued" or requested to be played by the host.
 
 The two main functionalities would be a search bar to find a particular song, and a list of the requested or "queued" songs,
 with eventual hopes for optional anonymity for song suggestions. 
+
+## Link to Repository 
+[link](https://github.com/ErickCif/QueueR/blob/HW2/README.md)
