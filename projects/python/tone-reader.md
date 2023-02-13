@@ -4,4 +4,5 @@
 
 ## Description
 
+
 Sarcasm detector using NLP (Sentiment Analysis)- Likely going to use Twitter and Reddit as training data. Will likely require pandas, NLTK, PRAW, and Tweepy.
