@@ -19,6 +19,9 @@ ITZMA is a linter that lets you decide how your code will look and helps you enf
 <br>
 <br>
 
+[ITZMA Lint Repo](https://github.com/tchitrakorn/itzma-lint)
+
+
 <div align="center">
   
 ![](https://media.tenor.com/8C22RnZpGo4AAAAM/cute-llama.gif)
