@@ -1,15 +1,12 @@
-# [pytorch](https://github.com/pytorch/pytorch)
+# PyTorch
 
-PyTorch is a Python package that provides two high-level features:
+[![](https://img.shields.io/badge/PyTorch-repo-blue)](https://github.com/pytorch/pytorch)
 
-- Tensor computation (like NumPy) with strong GPU acceleration
-- Deep neural networks built on a tape-based autograd system
-
-
-Usually, PyTorch is used either as:
-
-- A replacement for NumPy to use the power of GPUs.
-- A deep learning research platform that provides maximum flexibility and speed.
+> PyTorch is a Python package that provides two high-level features:
+>
+> - Tensor computation (like NumPy) with strong GPU acceleration
+> - Deep neural networks built on a tape-based autograd system
 
 ## Issues
 
+- [Support single-arg min/max](https://github.com/pytorch/pytorch/issues/93539)
