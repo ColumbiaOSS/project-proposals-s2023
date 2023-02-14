@@ -1,1 +1,9 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Axiompy
+
+Python library to convert, and perform math operations on values of particular units. Includes SI Base units, and non-standard units such as the ones adopted in the imperial system.
+
+(From [ArztKlein/Axiompy](https://github.com/ArztKlein/Axiompy))
+
+## Issues
+
+- [Get units from shorthand](https://github.com/ArztKlein/Axiompy/issues/2)
