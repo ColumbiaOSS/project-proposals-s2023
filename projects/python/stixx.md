@@ -1,4 +1,4 @@
-# Stixx
+# [Stixx](https://github.com/Mg4145/stixx)
 
 Stixx is a simple two-player game where the objective of the game is to
 have your opponent run out of moves.
