@@ -1,4 +1,4 @@
-<h1 align="center"> Chrome extension for NBA scores and favorite player data </h1>
+<h1 align="center"> <a href="https://github.com/dhu16/sportsbox" target="_blank" rel="noreferrer">Chrome extension for NBA scores and favorite player data</a> </h1>
 
 </br>
 
