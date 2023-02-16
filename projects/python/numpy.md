@@ -1,4 +1,3 @@
-
 # Numpy
 
 [![](https://img.shields.io/badge/Numpy-docs-green)](https://numpy.org)
@@ -10,4 +9,4 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 ## Issues
 
 - [BUG: inverse of a array causing crash](https://github.com/numpy/numpy/issues/22585)
-
+- Numpy flipping an array diagonally
