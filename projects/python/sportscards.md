@@ -7,9 +7,9 @@
 
 SportsCardTool is a python library for tracking and querying all exsisting sports card data. It has two main features:
 
- - Querying entries based on any number of categorical factors quickly IE identify all of John Does autographed rookie cards
+- Querying entries based on any number of categorical factors quickly IE identify all of John Does autographed rookie cards
 
- - Tracking their own collection via a database to provide metrics and potentially values
+- Tracking their own collection via a database to provide metrics and potentially values
 
  Repository [Here](https://github.com/TravisGibbs/SportsCardTool)
 
