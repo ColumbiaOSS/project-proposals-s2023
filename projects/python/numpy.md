@@ -10,3 +10,4 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 
 - [BUG: inverse of a array causing crash](https://github.com/numpy/numpy/issues/22585)
 - Numpy flipping an array diagonally
+- [BUG: IndexError when using np.histogram with small values](https://github.com/numpy/numpy/issues/23110)
