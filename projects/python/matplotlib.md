@@ -1,6 +1,6 @@
-# Matplotlib
+# matplotlib
 
-[![](https://img.shields.io/badge/matplotlib-docs-green)](https://matplotlib.org/stable/index.html)
+[![](https://img.shields.io/badge/matplotlib-docs-green)](https://matplotlib.org/stable/)
 [![](https://img.shields.io/badge/matplotlib-repo-blue)](https://github.com/matplotlib/matplotlib)
 
 Matplotlib is a comprehensive plotting library for Python. It is primarily used for creating static, animated, and interactive visualizations.
@@ -11,3 +11,6 @@ Matplotlib is a comprehensive plotting library for Python. It is primarily used 
 - [[Bug]: Validation not performed for loc argument to legend](https://github.com/matplotlib/matplotlib/issues/24605)
 - [[ENH]: Set color of legend shadow](https://github.com/matplotlib/matplotlib/issues/24663)
 - [loc values not validated when passed into legend](https://github.com/matplotlib/matplotlib/issues/24605)
+- [[ENH]: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
+- [[MNT]: Specify ordering in file in gallery folder](https://github.com/matplotlib/matplotlib/issues/25032)
+- [[Bug]: crash due to backend issue in ipython session started explicitly with InteractiveShell](https://github.com/matplotlib/matplotlib/issues/23770)
