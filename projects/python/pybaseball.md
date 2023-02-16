@@ -14,4 +14,3 @@ pybaseball is a Python package for baseball data analysis. This package scrapes 
 - [Feature Request: Single game fangraphs stats](https://github.com/jldbc/pybaseball/issues/52)
 
 Both of these are marked as good first issues.
-

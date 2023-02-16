@@ -1,9 +1,11 @@
 # Mar.io
+
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/ShivanshSrivastava1/Mar.io)
 
 Project Repo: [link](https://github.com/ShivanshSrivastava1/4995-Mar.io)
 
 ## Description
+
 Mar.io is a bot for Discord -- a voice, video, and text chat app that is widely used by various gaming communities. When I started working on the bot in my freshman year, I envisioned the project as a proof of concept that could implement toy features for smaller groups (i.e. groups of 10-15 members). Some of these features included Wikipedia searches, limited YouTube streaming over voice chat, and some chat moderation features.
 
 As part of this course, I'd like to start by refining some of these existing features. For example, the current version of the bot can only stream individual YouTube video; it cannot handle playlists that consist of several videos. Additionally, while Wikipedia is certainly a common resource to turn to, it may be more helpful to return the top results from Google, as Wikipedia may not be able to cover edge cases like memes.

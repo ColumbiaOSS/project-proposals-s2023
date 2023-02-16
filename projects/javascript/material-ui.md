@@ -6,4 +6,3 @@
 ## Issues
 
 - [Support color extensions in color prop](https://github.com/mui/material-ui/issues/24778#issuecomment-858524848)
-
