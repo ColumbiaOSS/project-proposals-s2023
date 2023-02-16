@@ -1,8 +1,13 @@
 # Matplotlib
 
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-Matplotlib produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, Python/IPython shells, web application servers, and various graphical user interface toolkits.
+[![](https://img.shields.io/badge/Matplotlib-docs-green)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Matplotlib-repo-blue)](https://github.com/matplotlib/matplotlib)
+
+Matplotlib is a plotting library for Python and NumPy providing an API to create static, animated, and interactive visualizations that can be 
+embedded in various applications.
 
 ## Issues
 
-[loc values not validated when passed into legend](https://github.com/matplotlib/matplotlib/issues/24605)
+- [[Bug]: Validation not performed for loc argument to legend](https://github.com/matplotlib/matplotlib/issues/24605)
+- [[ENH]: Set color of legend shadow](https://github.com/matplotlib/matplotlib/issues/24663)
+- [loc values not validated when passed into legend](https://github.com/matplotlib/matplotlib/issues/24605)
