@@ -1,1 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Pydigree
+Pydigree is a package for operations on pedigree and genotype data, including simulation of genotype-phenotype associations under quantitative genetic models.
+
+## Issues
+- [crash when pedigree contains only one parent](https://github.com/jameshicks/pydigree/issues/4)
