@@ -9,5 +9,5 @@ I intend to contribute some new algorithms that I have written while participati
 
 ## Issues
 
-- [Concatenate all algorithms with different implementations ](https://github.com/TheAlgorithms/Python/issues/8098)
+- [Concatenate all algorithms with different implementations](https://github.com/TheAlgorithms/Python/issues/8098)
 - [Importance of caching algorithms](https://github.com/TheAlgorithms/Python/issues/8083)
