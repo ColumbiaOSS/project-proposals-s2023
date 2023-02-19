@@ -1,10 +1,10 @@
 # spotify-charts
 
-[repo](https://github.com/cordeliachen/spotify-charts)
+[repo](https://github.com/cordeliachen/splotify)
 
 ## Description
 
-`spotify-charts` would be a library that combines the [Spotify Web API](https://github.com/spotipy-dev/spotipy) and a data visualization library (probably [Matplotlib](https://github.com/matplotlib/matplotlib)) to allow users to easily view charts of some of their Spotify data, such as:
+`splotify` would be a library that combines the [Spotify Web API](https://github.com/spotipy-dev/spotipy) and a data visualization library (probably [Matplotlib](https://github.com/matplotlib/matplotlib)) to allow users to easily view charts of some of their Spotify data, such as:
 
 - favorite artists/songs/genres
 - listening time/stats (i.e. danceability, energy, acousticness)
