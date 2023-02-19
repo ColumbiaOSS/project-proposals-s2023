@@ -1,1 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# kubernetes
+
+### Description
+
+Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications. This project is the Python client project for the kubernetes API.
+
+### Issues
+
+[Feature: custom objects API should support label selectors for delete collection methods #1957](https://github.com/kubernetes-client/python/issues/1957)
+
+[Feature: Configure default timeout for all API calls #1961](https://github.com/kubernetes-client/python/issues/1961)
