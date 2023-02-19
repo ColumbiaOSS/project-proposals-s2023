@@ -18,3 +18,4 @@ Matplotlib is a comprehensive plotting library for Python. It is primarily used 
 - [ENH: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
 - [[Bug]: Error showing colorbar when contouring a uniform field](https://github.com/matplotlib/matplotlib/issues/23817)  
 - [No error message in matplotlib.axes.Axes.legend() if there are more labels than handles](https://github.com/matplotlib/matplotlib/issues/24050)
+- [[Bug]: Hatch linewidths cannot be modified in an rcParam context](https://github.com/matplotlib/matplotlib/issues/21108)
