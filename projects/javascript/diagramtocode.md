@@ -3,7 +3,7 @@
 
 [Project Repository](https://github.com/sarahtang7/CodeViz-Planner)
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/sarahtang7/project-proposal-opensourcedev)
+[![](https://img.shields.io/badge/project-link-green)](https://github.com/sarahtang7/CodeViz-Planner)
 
 ## Description
 Inspired by GitHub's [repo_visualization](https://githubnext.com/projects/repo-visualization/) tool, which allows users to visualize codebases, 
