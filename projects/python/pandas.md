@@ -8,3 +8,4 @@ pandas is a Python package that provides fast, flexible, and expressive data str
 
 - [DataFrame.stack() has undefined behavior with converting float32 to float64](https://github.com/pandas-dev/pandas/issues/51059)
 - [BUG: Series.take needs to validate axis](https://github.com/pandas-dev/pandas/issues/51022)
+- [BUG: iterrows encounters OverflowError with str and datetime64[ns] columns](https://github.com/pandas-dev/pandas/issues/35665)
