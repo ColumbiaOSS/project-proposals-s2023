@@ -1,5 +1,4 @@
-
-# TheAlgorithms-Python
+# TheAlgorithms
 
 [![](https://img.shields.io/badge/Algorithms-Python-blue)](https://github.com/TheAlgorithms/Python)
 
@@ -11,3 +10,4 @@ I intend to contribute some new algorithms that I have written while participati
 
 - [Concatenate all algorithms with different implementations](https://github.com/TheAlgorithms/Python/issues/8098)
 - [Importance of caching algorithms](https://github.com/TheAlgorithms/Python/issues/8083)
+- [Implement XGBoost classification and regression algorithms](https://github.com/TheAlgorithms/Python/issues/8067)

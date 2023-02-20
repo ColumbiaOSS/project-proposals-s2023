@@ -1,3 +1,5 @@
+# shell-recorder
+
 ## Basic features
 
 - when execute the tool for the first time, the shell recording is on and all Commands and output generated afterwards are recorded
