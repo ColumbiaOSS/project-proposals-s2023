@@ -1,9 +1,19 @@
 # matplotlib
 
-[![](https://img.shields.io/badge/matplotlib-docs-green)](https://matplotlib.org/stable/index.html)
+[![](https://img.shields.io/badge/matplotlib-docs-green)](https://matplotlib.org/stable/)
 [![](https://img.shields.io/badge/matplotlib-repo-blue)](https://github.com/matplotlib/matplotlib)
 
-- Background: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. In the past, I've used matplotlib in coursework and for data visualization for a research paper I was contributing to.
+Matplotlib is a comprehensive plotting library for Python. It is primarily used for creating static, animated, and interactive visualizations.
 
 ## Issues
-- [[Bug]: Error showing colorbar when contouring a uniform field](https://github.com/matplotlib/matplotlib/issues/23817)
+- [align_titles](https://github.com/matplotlib/matplotlib/issues/22376)
+- [[Bug]: Validation not performed for loc argument to legend](https://github.com/matplotlib/matplotlib/issues/24605 )
+- [[Bug]: Validation not performed for loc argument to legend](https://github.com/matplotlib/matplotlib/issues/24605)
+- [[ENH]: Set color of legend shadow](https://github.com/matplotlib/matplotlib/issues/24663)
+- [loc values not validated when passed into legend](https://github.com/matplotlib/matplotlib/issues/24605)
+- [[ENH]: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
+- [[MNT]: Specify ordering in file in gallery folder](https://github.com/matplotlib/matplotlib/issues/25032)
+- [[Bug]: crash due to backend issue in ipython session started explicitly with InteractiveShell](https://github.com/matplotlib/matplotlib/issues/23770)
+- [ENH: Add setter/getter methods for all keyword parameters to Figure.__init__](https://github.com/matplotlib/matplotlib/issues/24617)
+- [[Bug]: Error showing colorbar when contouring a uniform field](https://github.com/matplotlib/matplotlib/issues/23817)  
+- [No error message in matplotlib.axes.Axes.legend() if there are more labels than handles](https://github.com/matplotlib/matplotlib/issues/24050)
