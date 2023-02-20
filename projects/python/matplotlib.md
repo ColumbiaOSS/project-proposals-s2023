@@ -6,6 +6,7 @@
 Matplotlib is a comprehensive plotting library for Python. It is primarily used for creating static, animated, and interactive visualizations.
 
 ## Issues
+
 - [align_titles](https://github.com/matplotlib/matplotlib/issues/22376)
 - [[Bug]: Validation not performed for loc argument to legend](https://github.com/matplotlib/matplotlib/issues/24605)
 - [[ENH]: Set color of legend shadow](https://github.com/matplotlib/matplotlib/issues/24663)
@@ -17,4 +18,3 @@ Matplotlib is a comprehensive plotting library for Python. It is primarily used 
 - [No error message in matplotlib.axes.Axes.legend() if there are more labels than handles](https://github.com/matplotlib/matplotlib/issues/24050)
 - [[Bug]: Hatch linewidths cannot be modified in an rcParam context](https://github.com/matplotlib/matplotlib/issues/21108)
 - [NonUniformImage class needs Axes method and pyplot function](https://github.com/matplotlib/matplotlib/issues/7763)
-

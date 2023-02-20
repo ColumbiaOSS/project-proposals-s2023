@@ -3,10 +3,10 @@
 
 Do you love using a linter but want even more personalized rules? Building off a traditional lint, ITZMA offers additional features such as:
 
-*  Enforcing all functions that change the state of the programs to begin with verbs
-*  Enforcing all functions that return values to be nouns
-*  Enforcing array names to be plural nouns
-*  ... and more!
+* Enforcing all functions that change the state of the programs to begin with verbs
+* Enforcing all functions that return values to be nouns
+* Enforcing array names to be plural nouns
+* ... and more!
 
 Of course, ITZMA also contains traditional features, such as:
 
