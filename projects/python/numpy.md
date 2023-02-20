@@ -15,3 +15,4 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 - [Issue: BUG: Assign scalars into new arrays with subarray dims fails for higher dimensions](https://github.com/numpy/numpy/issues/23083)
 - [BUG: np.isclose with datetime64 and timedelta64 types fail with error messages that reveal implementation details](https://github.com/numpy/numpy/issues/23157)
 - [BUG: median() does not properly cast the result to a uint8 array passed as the out kwarg](https://github.com/numpy/numpy/issues/22536)
+- [BUG: np.can_cast fails with string input](https://github.com/numpy/numpy/issues/22977)
