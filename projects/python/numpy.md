@@ -13,3 +13,4 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 - [BUG: Multiplication by real part of complex matrix very slow #23123](https://github.com/numpy/numpy/issues/23123)
 - [BUG: Assign scalars into new arrays with subarray dims fails for higher dimensions #23083](https://github.com/numpy/numpy/issues/23083)
 - [Issue: BUG: Assign scalars into new arrays with subarray dims fails for higher dimensions](https://github.com/numpy/numpy/issues/23083)
+- [BUG: np.can_cast fails with string input](https://github.com/numpy/numpy/issues/22977)
