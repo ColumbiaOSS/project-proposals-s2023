@@ -1,13 +1,11 @@
+# Project Contribution: TheAlgorithms-Python
 
-# TheAlgorithms-Python
+[![](https://img.shields.io/badge/TheAlgorithms--Python-repo-green)](https://github.com/TheAlgorithms/C-Plus-Plus)
 
-[![](https://img.shields.io/badge/Algorithms-Python-blue)](https://github.com/TheAlgorithms/Python)
+## Description
 
-The project includes all algorithms implemented in Python.
-
-I intend to contribute some new algorithms that I have written while participating in algorithm contests and solve some existing issues for this project.
+- This repository is a collection of open-source implementation of a variety of algorithms implemented in Python.
 
 ## Issues
 
-- [Concatenate all algorithms with different implementations](https://github.com/TheAlgorithms/Python/issues/8098)
-- [Importance of caching algorithms](https://github.com/TheAlgorithms/Python/issues/8083)
+- [Implement XGBoost classification and regression algorithms](https://github.com/TheAlgorithms/Python/issues/8067)

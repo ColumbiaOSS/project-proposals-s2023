@@ -1,3 +1,5 @@
+# Shapely
+
 ## Contribution ideas
 
 Shapely is a BSD-licensed Python package for manipulation and analysis of planar geometric objects. It is harder to assess the difficulty of different issues because Shapely doesn't use the tags, but here's one that could be feasible:\

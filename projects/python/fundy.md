@@ -1,3 +1,5 @@
+# fundy
+
 [![](https://img.shields.io/badge/fundy-repo-blue)](https://github.com/sebastianhereu/fundy)
 
 ## Description

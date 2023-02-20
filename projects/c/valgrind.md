@@ -7,7 +7,6 @@ Valgrind is a dynamic binary instrumentation tool, which is frequently used to c
 Valgrind is able to track programs across `fork()`s, along with producing XML output files containing the
 results of running it.
 
-
 ## Issues
 
 - Valgrind incorrectly formats XML output files for child processes - it is missing the starting tags

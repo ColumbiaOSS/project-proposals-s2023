@@ -5,4 +5,3 @@ FinRL is a library working on financial reinforcement learning. It provides an a
 ## Issues
 
 - [PaperTradingDemo - FileNotFoundError: actor.pth](https://github.com/AI4Finance-Foundation/FinRL/issues/875)
-

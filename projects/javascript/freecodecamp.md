@@ -10,4 +10,4 @@ It is a website with which I have learned and am still learning web development.
 ## Issues
 
 - [BUG: A lesson in Coding Interview Questions allows possibly incorrect code to pass]
-(https://github.com/freeCodeCamp/freeCodeCamp/issues/49260)
+(<https://github.com/freeCodeCamp/freeCodeCamp/issues/49260>)
