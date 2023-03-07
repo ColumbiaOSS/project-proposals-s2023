@@ -20,16 +20,12 @@
 
   </br>
   
-  <h3> APIs currently being considered:</h3>
+  <h3> APIs:</h3>
   
-  - <a href="https://developer.sportradar.com/docs/read/basketball/NBA_v5" target="_blank" rel="noreferrer">NBA v5 Sportradar US API</a>
-  
-  - <a href="https://rapidapi.com/api-sports/api/api-nba/details" target="_blank" rel="noreferrer">API-NBA</a>
-  - <a href="https://developer.nfl.com/get-started/overview" target="_blank" rel="noreferrer">NFL Developer</a>
+  - <a href="https://github.com/swar/nba_api" target="_blank" rel="noreferrer">nba_api</a>
   - <a href="https://github.com/cwendt94/espn-api" target="_blank" rel="noreferrer">ESPN Fantasy Football API</a>
   
   </br>
   
   <h3> Future expansion:</h3>
   
-  - Fantasy football stats - this was what I originally wanted to make a chrome extension for but the fantasy football season ended already
