@@ -1,6 +1,9 @@
+# fundy
+
 [![](https://img.shields.io/badge/fundy-repo-blue)](https://github.com/sebastianhereu/fundy)
 
 ## Description
+
 `fundy` is a library for computing funadamental analysis indicators on time series data. It has two main features:
 
 - Compute a basket of indicators such as RSI and Kaufman Efficiency Ratio on time series data

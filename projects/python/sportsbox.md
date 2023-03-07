@@ -6,7 +6,7 @@
   
   </br>
   
-  <h3> Written in:</h3> 
+  <h3> Written in:</h3>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
@@ -14,9 +14,9 @@
   
   <h3> Primary goals:</h3>
   
-  - Show desired box scores
-  - Favorite player stats
-  - Color/team themes?
+- Show desired box scores
+- Favorite player stats
+- Color/team themes?
 
   </br>
   
@@ -24,7 +24,7 @@
   
   - <a href="https://github.com/swar/nba_api" target="_blank" rel="noreferrer">nba_api</a>
   - <a href="https://github.com/cwendt94/espn-api" target="_blank" rel="noreferrer">ESPN Fantasy Football API</a>
-  
+
   </br>
   
   <h3> Future expansion:</h3>
