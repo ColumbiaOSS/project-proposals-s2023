@@ -36,4 +36,4 @@ jobs:
 
     - name: Lint
       run: |
-        markdownlint '**/*.md' || echo "not enforcing"
+        markdownlint '**/*.md'

@@ -6,8 +6,6 @@
 
 Numba translates Python functions to optimized machine code at runtime using the industry-standard LLVM compiler library. Numba-compiled numerical algorithms in Python can approach the speeds of C or FORTRAN.
 
-
 ## Issues
 
 - [meta-issue: All NumPy functions with no implementation](https://github.com/numba/numba/issues/4074)
-
