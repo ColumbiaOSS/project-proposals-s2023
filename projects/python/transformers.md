@@ -1,1 +1,6 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Project Contribution Description
+
+Project Github: [link](https://github.com/huggingface/transformers)
+Project Description: Transformers provides pretrained machine learning models that can be applied to text, images, and audio.
+My Interest: I chose this project because I want to learn more about ML applications. The repo is regularly updated and well maintained which were huge motivators for me as someone new to open source development.
+Good First Issue: [link](https://github.com/huggingface/transformers/issues/19848)
