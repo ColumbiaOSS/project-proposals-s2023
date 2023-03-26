@@ -2,20 +2,32 @@
 
 ## Description
 
-I will create a Chrone extension titled `domain-screen-time` which acts as an activity log by indicating how long a user spends on each domain site (Github, Amazon, Youtube, Courseworks, etc).
+I will create a Chrome extension titled `Domain Logger` to Delete Tabs by Domain, and Show Users a Log Table Displaying Each Parent Domain and its Corresponding Number of Tabs within a Chrome Window (see first link below for details)
 
-Here's how it should work:
-When you start the browser window, from that point 'domain-screen-time' monitors your tabs and domain activity in that window. It logs the duration in 00:00:00 (hours-minutes-seconds format) of each domain you are visiting. When you actively visit a tab, the timer for that domain will keep going, until you switch to another tab with a different domain (at that point the timer will start for that new domain). Ultimately, the user should be able to see which domains they spent the longest time in during the past 24 hours.
+## Why it's important
 
-Why it's important:
-While iPhone and Macs typically have screentime data, they do not specify details such as the domain the user spent more time in. But this is a unique problem and would benefit students who wish to see how long they spend on educational sites, shopping sites, social media, etc so that they can adjust their patterns upon learning this information to achieve their goals or at the very least,
-they can be more aware of how much time they are spending for distractions thanks to the constant logging of 'domain-screen-time'.  
+This Chrome extension helps users identify each domain that they have opened in the current Chrome window and delete all tabs under that domain in just one click. Users can also see how many tabs they have open under each parent domain (whether it is Github, Amazon, Youtube, Courseworks, etc) and simply delete all tabs related to the domain they specify, by clicking the "Delete" link corresponding to the particular parent domain they wish to delete.
 
-This `domain-screen-time` Chrome Extension has 3 key features:
+## Problem Statement
 
-- Timer: Upon opening a window, start timer as user visits each domain in their window session (how long user spends on each domain based on their current tab). Categorize all subdomains that are part of the same host domain so that they all count towards the corresponding main domain. Keep a "timer" for every domain the user visits.
-- Cross-tab monitoring: Once the user closes a particular tab, it is in "inactive" state so stop the timer for that domain until user revists it (meaning they are active on that domain again). Essentially, domain-screen-time should log the time if the user either 1) goes back to that exact tab making it "active" or 2) opens a new tab that shares the same domain
-- Aggregation: Aggregate the information for the user every hour such that the page accurately shows time spent on each domain for the past 24 hours. User can analyze this information to understand how their time is being spent across various domains.
+While users can close tabs individually when clearing out their window, this process can become tedious especially for students who can easily have dozens of tabs open while they are studying, watching youtube, shopping online, etc. They can easily get distracted and switch from one tab to another instead of focusing on the task at hand.
+Using this chrome extension, with a few simple clicks users can easily remove all domains from their Chrome Window that can be distractions to their current task, which can result in higher productivity. Another advantage of this extension is that if current RAM usage is high, users can reduce this easily with this extension to remove tabs from domains that are no longer needed wih a few simple clicks, thereby reducing the RAM usage of Chrome (which can be utilized for other processes).
+
+## Solution/How It Works
+
+When you start the browser window and unpack this Chrome Extension in "Developer Mode", from that point 'Domain Logger' keeps track of your tabs and domain activity in that window. It categorizes all subdomains that you are visiting under its respective parent domain, logs the total number of tabs under that domain, and gives the option to delete all tabs under that domain with just one click.
+For each tab you open under a parent domain and for each tab you close under a parent domain, the count will automatically adjust accordingly. This extension solves the problem since the user will now be able to easily close all irrelavent domains when trying to concentrate, which can help them minimize distraction and become more productive.
+
+## Features
+
+This `Domain Logger` Chrome Extension has 6 key features:
+
+1. User-friendly interface to display all information to user in an easy-to-use manner
+2. Logs each parent domain in the current chrome window
+3. Displays the number of tabs corresponding to each domain
+4. Displays a "delete" link for each domain in the log table to delete all tabs under that domain
+5. Real-time monitoring of labs, logs in the domain table update accordingly when adding or deleting any tab
+6. Thorough documentation for this Domain Logger Chrome extension
 
 ## Domain Logger Repo Link
 
