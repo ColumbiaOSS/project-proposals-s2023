@@ -3,7 +3,7 @@
 Stixx is a simple two-player game where the objective of the game is to
 have your opponent run out of moves.
 
-# How To Play
+## How To Play
 
 * Players start with two hands with one stick in each one.
 * First player's turn is decided on a coin toss.
@@ -30,8 +30,8 @@ play with the other hand until you either win or lose.
   he can choose to have 1 stick in one hand and 2 sticks in another.
   * The game ends when one of the two players has 0 sticks on BOTH hands.
 
+## Future Features
 
-# Future Features
 * Randomized start for both players
 * Online connection so that both players can play on their window
 * Multiplayer if possible

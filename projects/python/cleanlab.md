@@ -1,1 +1,12 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Cleanlab
+
+[![docs](https://img.shields.io/static/v1?logo=github&style=flat&color=pink&label=docs&message=cleanlab)](https://docs.cleanlab.ai/)
+[![repo](https://img.shields.io/static/v1?style=flat&color=blue&label=repo&message=cleanlab)](https://github.com/cleanlab/cleanlab)
+
+Cleanlab is a Python library that cleans a dataset's labels using confident learning algorithms. It provides functions that can detect data
+and label issues or train noise-robust models.
+
+## Issues
+
+- [CI: Run tests with oldest versions of supported dependencies](https://github.com/cleanlab/cleanlab/issues/191)
