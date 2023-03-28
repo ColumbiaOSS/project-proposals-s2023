@@ -22,4 +22,3 @@ I would like to roll my own scala implementation. Here is what I would do differ
 - Experiment with storing data off-heap, to further reduce memory requirements.
 - Eventually I would like to support many different indexes since each has their own pros and cons.
 - Experiment with possibilty to use data structures that spill to disk? There is a newer [alternate hybrid algorithm](https://openreview.net/forum?id=-1rrzmJCp4) that claims to support data both in disk and in memory but its performance with different kinds of data sets is yet to be proven.
-
