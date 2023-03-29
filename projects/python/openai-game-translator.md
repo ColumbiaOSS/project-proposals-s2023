@@ -7,4 +7,3 @@
 - Even better translation based on openai's role-playing, context completion, and multimodal fusion of images, sounds, and subtitles.
 
 [openai-game-translator](https://github.com/Erisae/openai-game-translator)
-
