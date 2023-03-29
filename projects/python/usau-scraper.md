@@ -9,6 +9,7 @@ scraper that would allow other developers to easily use the data on the USAU sit
 ultimate frisbee.
 
 ## Repository Link
+
 <https://github.com/erin2722/usau-scraper>
 
 ## Features (MVP)
