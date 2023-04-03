@@ -1,6 +1,6 @@
-# my-palette
+# get_my_palette_from_image
 
-[my-palette](https://github.com/ys3593/my-palette)
+[get_my_palette_from_image](https://github.com/ys3593/my-palette)
 
 ## Project Proposal Description
 
