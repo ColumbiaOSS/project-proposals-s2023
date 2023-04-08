@@ -1,4 +1,4 @@
-## What is Buf
+# What is Buf
 Buf is an open source project maintained by Google for working with Protocol Buffers (protobuf). It provides a simple and intuitive API for encoding, decoding, and manipulating protobuf messages in various programming languages. Using Buf, developers can effectively manage their protobuf message definitions and reduce the time and effort required to work with protobuf data.
 
 <h2>Issue #1:<h2>
