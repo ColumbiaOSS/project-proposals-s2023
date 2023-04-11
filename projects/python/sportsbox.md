@@ -25,7 +25,6 @@
 - <a href="https://github.com/cwendt94/espn-api" target="_blank" rel="noreferrer">ESPN Fantasy Football API</a>
 - ESPN API
 
-
 </br>
   
 <h3> Future expansion:</h3>
