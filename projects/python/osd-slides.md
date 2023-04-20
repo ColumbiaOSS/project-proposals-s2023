@@ -1,6 +1,7 @@
 # osd-slides
 
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/kkarakas/osd-slides)
+[![PyPI](https://img.shields.io/pypi/v/osd-slides)](https://pypi.org/project/osd-slides/)
 
 <https://github.com/kkarakas/osd-slides>
 

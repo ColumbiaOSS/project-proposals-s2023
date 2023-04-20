@@ -1,5 +1,7 @@
 # streeteasy-scraper
 
+## I've abandoned this project. Please see students/ag4219.md to see my new project
+
 This is a webscraper idea for the website steeteasy.com, which is a real estate platform similar to zillow.com but specific to new york city.
 
 I'd want to expose an api for developers to use that can get data not limited to
