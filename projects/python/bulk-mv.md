@@ -4,55 +4,15 @@ bulk-mv is an interactive tool that does what the `mv` command does, but for mul
 
 [REPO LINK](https://github.com/angarc/bulk-mv)
 
+[![License](https://img.shields.io/github/license/angarc/bulk-mv)](https://github.com/angarc/bulk-mv/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/angarc/bulk-mv)](https://github.com/angarc/bulk-mv/issues)
+[![codecov](https://img.shields.io/codecov/c/github/angarc/bulk-mv)](https://app.codecov.io/gh/angarc/bulk-mv)
+[![build](https://img.shields.io/github/actions/workflow/status/angarc/bulk-mv/build.yml)](https://github.com/angarc/bulk-mv/actions/workflows/build.yml)
+[![PyPI](https://img.shields.io/pypi/v/bulk-mv)](https://pypi.org/project/bulk-mv/)
+[![Docs](https://img.shields.io/readthedocs/bulk-mv)](https://angarc.github.io/bulk-mv/)
+
 ## Installation
 
 ``` bash
 pip install bulk-mv
 ```
-
-## Usage
-
-When you run `bmv [path]`, a vim buffer with a representation of the file tree starting at the directory at `[path]` will open.
-
-Something like this:
-
-``` bmv
-web/
-web/pages/
-web/pages/a.html
-web/pages/b.html
-web/static/
-web/static/main.css
-web/static/main.js
-web/images/ 
-web/images/photo.jpg
-web/images/delete_me.jpg
-```
-
-Say you wanted to:
-
-1. Delete the `delete_me.jpg` file.
-2. Move the `images` folder to the `static` folder.
-3. Rename `main.js` to `script.js`
-4. Create a `web/fonts/` folder
-
-You would write:
-
-``` bmv
-+ web/fonts/
-
-web/
-web/pages/
-web/pages/a.html
-web/pages/b.html
-
-web/static/
-web/static/main.css
-web/static/main.js -> web/static/script.js
-
-web/images/ => web/static/images/
-web/images/photo.jpg
-- web/images/delete_me.jpg
-```
-
-When you save and quit vim, `bmv` will perform all the operations.
