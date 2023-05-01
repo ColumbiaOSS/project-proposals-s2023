@@ -17,4 +17,3 @@ Description: Takes a job posting URL and your resume to generate a cover letter 
 
 https://jaesungpark42.github.io/GPTCovLetDocs/
 
-
