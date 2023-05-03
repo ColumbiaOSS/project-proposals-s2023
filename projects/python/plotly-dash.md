@@ -7,4 +7,4 @@ Dash is a library of Plotly specifically intended for displaying and visualizing
 
 ## Issues
 
-- [[BUG] dashtable with pagination: tooltips appear in wrong place](https://github.com/plotly/dash/issues/1848)
+- [[BUG] dashtable with pagination: tooltips appear in wrong place](<https://github.com/plotly/dash/issues/1848>)
