@@ -11,4 +11,3 @@ Currently, a huge pain point for me when I develop on React or on the frontend i
 [![Build Status](https://github.com/cherieliu/color-themer/workflows/Build%20Status/badge.svg?branch=main)]((https://github.com/cherieliu/color-themer/actions?query=workflow%3A%22Build+Status%22))
 [![codecov](https://codecov.io/gh/cherieliu/color-themer/branch/hw5/graph/badge.svg)](https://app.codecov.io/gh/cherieliu/color-themer/tree/main)
 [![Github Page](https://img.shields.io/badge/Github%20Pages-link-blueviolet)](https://cherieliu.github.io/color-themer/)
-
