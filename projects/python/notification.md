@@ -4,8 +4,7 @@ Name: KeunWoo Song
 
 [Project Link](https://github.com/kw9212/project_2023)
 
-
-### Description
+## Description
 
 The Email Keyword Notifier is a Python-based application designed to help users manage their email inboxes more efficiently by monitoring incoming Gmail messages for specific keywords and sending real-time notifications to their smartphones via Slack. The goal of this project is to enable users to quickly identify and prioritize important emails without manually sorting through their inboxes, ultimately enhancing productivity and organization.
 
