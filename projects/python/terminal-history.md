@@ -1,6 +1,10 @@
 # terminal-history
 
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/MiloniAtal/terminal-tracker)
+[![](https://img.shields.io/github/license/MiloniAtal/terminal-tracker)](https://github.com/MiloniAtal/terminal-tracker/blob/main/LICENSE)
+[![Build Status](https://github.com/MiloniAtal/terminal-tracker/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/MiloniAtal/terminal-tracker/actions?query=workflow%3A%22Build+Status%22)
+[![PyPI](https://img.shields.io/pypi/v/terminal-tracker)](https://pypi.org/project/terminal-tracker/)
+[![Documentation Status](https://readthedocs.org/projects/terminal-tracker/badge/?version=latest)](https://terminal-tracker.readthedocs.io/en/latest/?badge=latest)
 
 Maintaining a history of terminal commands executed for a folder/project from any terminal.
 
