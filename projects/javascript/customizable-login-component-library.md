@@ -6,8 +6,9 @@ author: Zijian Xu
 
 A login component library for vue3.
 
-#### Have you ever designed login pages over and over again, even though they don't change much?
-#### Do you despair of your aesthetics and can't design a login page to your liking?
+**Have you ever designed login pages over and over again, even though they don't change much?**
+
+**Do you despair of your aesthetics and can't design a login page to your liking?**
 
 If you think so, then this project is definitely for you.
 
