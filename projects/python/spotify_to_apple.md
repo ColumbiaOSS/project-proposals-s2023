@@ -1,4 +1,4 @@
-## Spotify to Apple Music Converter
+# Spotify to Apple Music Converter
 
 [Project repo](https://github.com/Beza4598/spotify_apple_converter.git)
 

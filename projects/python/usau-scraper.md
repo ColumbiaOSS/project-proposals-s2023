@@ -1,5 +1,10 @@
 # USAU Scraper
 
+[![Build Status](https://github.com/erin2722/usau-scraper/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/ColumbiaOSS/example-project-python/actions?query=workflow%3A%22Build+Status%22)
+![Apache Liscence](https://img.shields.io/github/license/erin2722/usau-scraper?color=f72d2d)
+[![PyPI](https://img.shields.io/pypi/v/usau-scraper?color=2d2df7)](https://pypi.org/project/usau-scraper/)
+[![Docs](https://img.shields.io/badge/documentation-gh%20pages-%23fffb03)](https://erin2722.github.io/usau-scraper/)
+
 ## Description
 
 The USAU scraper is a data collector that allows developers to easily aggregate and use team results, rosters, and schedule data from the [USAU website](https://play.usaultimate.org/events/tournament/?ViewAll=false&IsLeagueType=false&IsClinic=false&FilterByCategory=AE).
@@ -9,6 +14,7 @@ scraper that would allow other developers to easily use the data on the USAU sit
 ultimate frisbee.
 
 ## Repository Link
+
 <https://github.com/erin2722/usau-scraper>
 
 ## Features (MVP)

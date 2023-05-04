@@ -1,6 +1,6 @@
 # KET (KMS Encryption Tool)
 
-### Description
+## Description
 
 KET (KMS Encryption Tool) uses AWS KMS Key to encrypt and decrypt files/contents based on user provided keys and push them to a datastore backend (S3, RDS or DynamoDB).
 
@@ -14,6 +14,6 @@ Primary Goals/Requirments:
 
 4. Choose the key you want to use to encrypt (searchable by name or tag)
 
-### Project Link
+## Project Link
 
 [AWS KET](https://github.com/sayefiqb/aws-ket)

@@ -1,6 +1,7 @@
 # pro-football-reference-web-scraper
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/mjk2244/pro-football-reference-web-scraper)
+[![](https://img.shields.io/badge/project-link-green)](https://github.com/mjk2244/pro-football-reference-web-scraper) [![License](https://img.shields.io/github/license/mjk2244/pro-football-reference-web-scraper)](https://opensource.org/licenses/Apache-2.0) [![Package Status](https://img.shields.io/github/actions/workflow/status/mjk2244/pro-football-reference-web-scraper/build.yml)](https://github.com/mjk2244/pro-football-reference-web-scraper/) [![PyPI](https://img.shields.io/pypi/v/pro-football-reference-web-scraper)](https://pypi.org/project/pro-football-reference-web-scraper/)
+[![readthedocs](https://img.shields.io/readthedocs/pro-football-reference-web-scraper)](https://pro-football-reference-web-scraper.readthedocs.io/en/latest/) [![Github Pages Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://mjk2244.github.io/pro-football-reference-web-scraper/)
 
 ## Description
 
