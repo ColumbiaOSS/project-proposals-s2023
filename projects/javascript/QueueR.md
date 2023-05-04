@@ -8,7 +8,6 @@ the API and make the host get suggestive pings about what users request.
 
 A sort of prelimary version/tool of what I hope the final project to be that'll surely get worked on beyond this class.
 
-
 ## Description
 
 The host will share a link to friends or whomever, and users with a link can get on the site to see the music that has
