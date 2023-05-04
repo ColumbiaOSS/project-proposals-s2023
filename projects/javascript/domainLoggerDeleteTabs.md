@@ -1,8 +1,24 @@
-# domain-screen-time
+# Domain Logger - Delete Tabs By Domain
+
+Chrome Extension to Delete Tabs by Domain, and to See a Log Table showing Each Parent Domain and its Corresponding Number of Tabs within a Chrome Window
+
+<img src = "https://img.shields.io/github/license/faizak1/DomainLogger"> <img src = "https://img.shields.io/github/issues/faizak1/DomainLogger">
+![Build Status](https://github.com/faizak1/DomainLogger/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/github/faizak1/DomainLogger/branch/main/graph/badge.svg?token=RUW388KYJF)](https://codecov.io/github/faizak1/DomainLogger)
+[![npm](https://img.shields.io/npm/v/domain-logger-delete-tabs-by-domain)](https://www.npmjs.com/package/domain-logger-delete-tabs-by-domain)
+[![JSDoc Documentation](https://img.shields.io/badge/docs-jsdoc-blue.svg)](https://faizak1.github.io/DomainLogger/index.html)
+
+## Repo Link
+
+Repo Link: <https://github.com/faizak1/DomainLogger>
+
+## Documentation Link
+
+Documentation Link: <https://faizak1.github.io/DomainLogger/index.html>
 
 ## Description
 
-I will create a Chrome extension titled `Domain Logger` to Delete Tabs by Domain, and Show Users a Log Table Displaying Each Parent Domain and its Corresponding Number of Tabs within a Chrome Window (see first link below for details)
+I have created a Chrome extension titled `Domain Logger` to Delete Tabs by Domain, and Show Users a Log Table Displaying Each Parent Domain and its Corresponding Number of Tabs within a Chrome Window (see first link below for details)
 
 ## Why it's important
 
@@ -28,7 +44,3 @@ This `Domain Logger` Chrome Extension has 6 key features:
 4. Displays a "delete" link for each domain in the log table to delete all tabs under that domain
 5. Real-time monitoring of labs, logs in the domain table update accordingly when adding or deleting any tab
 6. Thorough documentation for this Domain Logger Chrome extension
-
-## Domain Logger Repo Link
-
-Repo Link: <https://github.com/faizak1/DomainLogger>
