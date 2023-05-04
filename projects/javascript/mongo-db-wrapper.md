@@ -9,7 +9,6 @@
 [![npm](https://img.shields.io/npm/v/mongo-db-wrapper-interfaces)](https://www.npmjs.com/package/mongo-db-wrapper-interfaces)
 [![Documentation](https://img.shields.io/badge/docs-typedoc-blue.svg)](https://monirul1.github.io/mongo-db-wrapper/)
 
-
 <strong>Objective:</strong>
 To simplify the process of working with MongoDB in a Node.js application by providing easy-to-use and intuitive interfaces for common read and write operations.
 
@@ -31,14 +30,12 @@ To simplify the process of working with MongoDB in a Node.js application by prov
 | MongoDB    | to initialize the wrapper with the database  |
 | NPM   | for publishing the library to the NPM registry  |
 
-
 <strong>Why this library?:</strong>
 
 1. Improves developer productivity by providing a more intuitive way to interact with MongoDB
 2. Increases the adoption of MongoDB by making it easier for developers to get started and integrate into their applications
 3. Saves time and effort by eliminating the need to write complex MongoDB queries
 4. Encourages new entry-level developers to work with MongoDB
-
 
 <strong>Deliverables and Expected release time: </strong>
 
