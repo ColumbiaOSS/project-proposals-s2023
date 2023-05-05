@@ -1,6 +1,9 @@
 # judgemental
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/asharnadeem/judgemental)
+[![Build Status](https://github.com/asharnadeem/judgemental/actions/workflows/build.yml/badge.svg)](https://github.com/asharnadeem/judgemental/actions/workflows/build.yml)
+[![License](https://img.shields.io/badge/license-apache_2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+[![npm](https://img.shields.io/npm/v/react)](https://www.npmjs.com/package/judgemental)
+[![Docs](https://img.shields.io/badge/wiki-documentation-forestgreen)](https://asharnadeem.github.io/judgemental/)
 
 ## Description
 
