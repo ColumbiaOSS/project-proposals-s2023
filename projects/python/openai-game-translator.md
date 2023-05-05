@@ -1,7 +1,7 @@
 # openai-game-translator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![build](https://github.com/Erisae/openai-game-translator/actions/workflows/build.yml/badge.svg)](https://github.com/A-Chaudhary/age3d/actions?query=workflow%3A%22Build+Status%22)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Erisae/openai-game-translator/blob/main/LICENSE)
+[![build](https://github.com/Erisae/openai-game-translator/actions/workflows/build.yml/badge.svg)](https://github.com/Erisae/openai-game-translator/actions/workflows/build.yml)
 [![PyPI](https://img.shields.io/pypi/v/openai-game-translator)](https://pypi.org/project/openai-game-translator/)
 [![Doc](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://erisae.github.io/openai-game-translator/)
 
