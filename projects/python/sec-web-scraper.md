@@ -1,6 +1,10 @@
 # SEC Web Scraper
 
 [![](https://shields.io/badge/project-link-green)](https://github.com/deji725/sec-web-scraper)
+![Github](https://github.com/deji725/sec-web-scraper/actions/workflows/makefile.yml/badge.svg)
+![Github](https://img.shields.io/github/license/deji725/sec-web-scraper)
+[![docs](https://img.shields.io/github/actions/workflow/status/deji725/sec-web-scraper/docs.yml?label=docs)](https://deji725.github.io/sec-web-scraper/)
+[![PyPI](https://img.shields.io/pypi/v/sec-web-scraper)](https://pypi.org/project/sec-web-scraper/)
 
 ## Description
 
