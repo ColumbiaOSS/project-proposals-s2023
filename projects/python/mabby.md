@@ -1,6 +1,10 @@
 # mabby
 
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/ew2664/mabby)
+[![build](https://img.shields.io/github/actions/workflow/status/ew2664/mabby/build.yml)](https://github.com/ew2664/mabby/actions/workflows/build.yml)
+[![license](https://img.shields.io/github/license/ew2664/mabby)](https://github.com/ew2664/mabby/blob/main/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/mabby)](https://pypi.org/project/mabby/)
+[![docs](https://img.shields.io/github/actions/workflow/status/ew2664/mabby/docs.yml?label=docs)](https://ew2664.github.io/mabby/)
 
 ## Description
 
