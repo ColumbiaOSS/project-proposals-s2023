@@ -10,8 +10,8 @@
 
 These components will be able to be customized in their layout and color. For example, if a developer wanted to put his play button on the right side of the video and make it blue, that will be possible.
 
-
 ## Badges
+
 <span>
   <img src="https://img.shields.io/badge/license-MIT-green"></img>
   <img src="https://img.shields.io/github/issues/etesam913/Custoplayer"></img>
