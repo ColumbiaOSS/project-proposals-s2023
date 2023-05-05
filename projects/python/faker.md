@@ -21,3 +21,4 @@ Faker is heavily inspired by `PHP Faker`_, `Perl Faker`_, and by `Ruby Faker`\_.
 - [Add French equivalents of Dutch Address, Phone_number, Ssn providers for Belgium](https://github.com/joke2k/faker/issues/1782)
 - [Add dynamic type object generator](https://github.com/joke2k/faker/issues/1779)
 - [Suggestion: Generate Date Time values only for at certain times (e.g. Workdays, Weekends)](https://github.com/joke2k/faker/issues/1775)
+- [Suggestion: Fake Passport, Driving License and County](https://github.com/joke2k/faker/issues/1853)
