@@ -1,6 +1,10 @@
 # valparse
 
 [![](https://img.shields.io/badge/valparse-link-green)](https://github.com/tzussman/valparse)
+[![Build Status](https://github.com/tzussman/valparse/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/tzussman/valparse/actions?query=workflow%3A%22Build+Status%22)
+[![License](https://img.shields.io/github/license/tzussman/valparse)](https://github.com/tzussman/valparse)
+[![PyPI](https://img.shields.io/pypi/v/valparse)](https://pypi.org/project/valparse/)
+[![Docs](https://img.shields.io/badge/-docs-blueviolet)](https://tzussman.github.io/valparse)
 
 ## Description
 

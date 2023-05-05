@@ -16,6 +16,13 @@ been "queued" or requested to be played by the host.
 The two main functionalities would be a search bar to find a particular song, and a list of the requested or "queued" songs,
 with eventual hopes for optional anonymity for song suggestions.
 
-## Link to Repository
+At this point, the application uses the Spotify API to search and add songs to the Queue, and anyone can host their own room, but there are several OAuth features missing as well as solidifying the hosts' room "ownership."
 
-[link](https://github.com/ErickCif/QueueR/blob/HW2/README.md)
+## Repository and Its Links
+
+[Queue-R](https://github.com/ErickCif/queue-r) [![QueueR](https://img.shields.io/badge/GitHub-Repo-green?logo=github)](https://github.com/ErickCif/queue-r)
+[![GitHub issues](https://img.shields.io/github/issues/ErickCif/QueueR)](https://github.com/ErickCif/QueueR/issues)
+[![Build Status](https://github.com/ErickCif/queue-r/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/ErickCif/queue-r/actions?query=workflow%3A%22Build+Status%22)
+[![codecov](https://codecov.io/gh/ErickCif/queue-r/branch/main/graph/badge.svg)](https://codecov.io/gh/ErickCif/queue-r)
+[![Documentation Status](https://readthedocs.org/projects/queue-r/badge/?version=latest)](https://queue-r.readthedocs.io/en/latest/?badge=latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
