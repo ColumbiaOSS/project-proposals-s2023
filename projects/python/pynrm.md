@@ -1,6 +1,11 @@
 # pynrm
 
-`pynrm` is a lightweight and extensible animal breeding simulation library for Python. Link to repository can be found [here](https://github.com/katehyerinjeon/pynrm).
+![Build Status](https://github.com/katehyerinjeon/pynrm/actions/workflows/build.yml/badge.svg)
+![License](https://img.shields.io/github/license/katehyerinjeon/pynrm)
+![PyPI](https://img.shields.io/pypi/v/pynrm)
+[![Docs](https://img.shields.io/readthedocs/pynrm.svg)](https://pynrm.readthedocs.io/)
+
+`pynrm` is a lightweight and extensible Python library for livestock breeding simulation. Link to repository can be found [here](https://github.com/katehyerinjeon/pynrm).
 
 ## Overview
 
