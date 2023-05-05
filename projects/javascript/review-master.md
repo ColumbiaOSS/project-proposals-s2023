@@ -1,6 +1,9 @@
-# Review-Analysis-Visualizer
+# Review Master
 
-[![](https://img.shields.io/badge/project-link-green)](https://github.com/boraelci/review-master)
+[![Project Link](https://img.shields.io/badge/project-link-green)](https://github.com/boraelci/review-master)
+[![Build Status](https://github.com/boraelci/review-master/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/boraelci/review-master/actions?query=workflow%3A%22Build+Status%22)
+[![NPM](https://img.shields.io/npm/v/review-master.svg)](https://www.npmjs.com/package/review-master)
+[![Docs](https://img.shields.io/badge/docs-passing-success)](https://boraelci.github.io/review-master/)
 
 ## Description
 
