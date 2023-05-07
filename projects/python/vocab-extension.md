@@ -1,4 +1,9 @@
-# vocab-extension
+# Vocab Extension
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://github.com/ayshajamjam/vocabulary-extension/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/ayshajamjam/vocabulary-extension/actions?query=workflow%3A%22Build+Status%22)
+[![PyPI](https://img.shields.io/pypi/v/Vocabulary-Extension)](https://pypi.org/project/Vocabulary-Extension)
+[![Documentation Status](https://readthedocs.org/projects/vocabulary-extension/badge/?version=latest)](https://ayshajamjam.github.io/Vocabulary-Extension/)
 
 ## Project Proposal
 
