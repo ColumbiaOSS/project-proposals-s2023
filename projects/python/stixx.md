@@ -3,6 +3,12 @@
 Stixx is a simple two-player game where the objective of the game is to
 have your opponent run out of moves.
 
+[![Build Status](https://github.com/mg4145/stixx/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/mg4145/stixx/actions?query=workflow%3A%22Build+Status%22)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![codecov](https://codecov.io/gh/mg4145/stixx/branch/main/graph/badge.svg)](https://codecov.io/gh/mg4145/stixx)
+[![PyPI](https://img.shields.io/pypi/v/stixx)](https://pypi.org/project/stixx/)
+[![Docs](https://img.shields.io/readthedocs/stixx)](https://stixx.readthedocs.io/)
+
 ## How To Play
 
 * Players start with two hands with one stick in each one.
