@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/project-link-green)](https://github.com/graceduansu/clip_bbox)
 [![Build Status](https://github.com/graceduansu/clip_bbox/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/graceduansu/clip_bbox/actions?query=workflow%3A%22Build+Status%22)
-[![GitHub](https://img.shields.io/github/license/graceduansu/clip_bbox)](./LICENSE)
+[![GitHub](https://img.shields.io/github/license/graceduansu/clip_bbox)](https://github.com/graceduansu/clip_bbox/blob/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/clip-bbox)](https://pypi.org/project/clip-bbox/)
 [![Documentation Status](https://readthedocs.org/projects/clip-bbox/badge/?version=latest)](https://clip-bbox.readthedocs.io/en/latest/?badge=latest)
 
