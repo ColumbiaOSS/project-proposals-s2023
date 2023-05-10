@@ -8,6 +8,7 @@
 [Link to repo](https://github.com/ColumbiaMancera/multi-scale-expansion)
 
 ## Badges
+
 ![Build Status](https://github.com/ColumbiaMancera/multi-scale-expansion/actions/workflows/build.yml/badge.svg)
 ![image](https://img.shields.io/pypi/l/tensorflow)
 [![PyPI](https://img.shields.io/pypi/v/multi-scale-expansion)](https://pypi.org/project/multi-scale-expansion/)
