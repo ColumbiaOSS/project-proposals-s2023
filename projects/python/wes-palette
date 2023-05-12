@@ -1,0 +1,10 @@
+ wes anderson palette
+
+[![](https://img.shields.io/badge/project-link-green)](https://github.com/au2232/wes-palette)
+
+## Description
+'wes-palette' is a matplotlib extension with color palettes from selected Wes Anderson films. 
+
+Features:
+- attractive alternatives for the default color palettes
+- wes anderson film palette library
