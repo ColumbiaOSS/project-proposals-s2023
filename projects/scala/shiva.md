@@ -1,5 +1,10 @@
 # [shiva](https://github.com/saucam/shiva): Simple High dimensional Indexed Vector search Algorithms
 
+[![CI](https://github.com/saucam/shiva/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/saucam/shiva/actions/workflows/ci.yaml)
+[![](https://img.shields.io/github/license/saucam/shiva)](https://github.com/saucam/shiva/blob/main/LICENSE.md)
+[![Sonatype Releases](https://img.shields.io/nexus/r/io.github.saucam/shiva-core_2.13?nexusVersion=2&server=https%3A%2F%2Fs01.oss.sonatype.org)](https://s01.oss.sonatype.org/content/repositories/releases/io/github/saucam/shiva-core_2.13/)
+[![Docs](https://img.shields.io/badge/Docs-Website-yellow)](https://saucam.github.io/shiva)
+
 Recently, I got interested in indexing libraries for similarity search. These are highly efficient libraries that index vector data and can be used to query 'similar' vector based on metrics like euclidean distance etc.
 
 Some of the very popular implementations are:
@@ -22,4 +27,3 @@ I would like to roll my own scala implementation. Here is what I would do differ
 - Experiment with storing data off-heap, to further reduce memory requirements.
 - Eventually I would like to support many different indexes since each has their own pros and cons.
 - Experiment with possibilty to use data structures that spill to disk? There is a newer [alternate hybrid algorithm](https://openreview.net/forum?id=-1rrzmJCp4) that claims to support data both in disk and in memory but its performance with different kinds of data sets is yet to be proven.
-

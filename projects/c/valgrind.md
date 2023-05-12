@@ -1,1 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Valgrind
+
+[![](https://img.shields.io/badge/Valgrind-docs-green)](https://valgrind.org/)
+[![](https://img.shields.io/badge/Valgrind-repo-blue)](https://sourceware.org/git/?p=valgrind.git;a=tree)
+
+Valgrind is a dynamic binary instrumentation tool, which is frequently used to catch memory leaks and errors.
+Valgrind is able to track programs across `fork()`s, along with producing XML output files containing the
+results of running it.
+
+## Issues
+
+- Valgrind incorrectly formats XML output files for child processes - it is missing the starting tags
+  for the XML file, leading to incorrect/broken parsing.

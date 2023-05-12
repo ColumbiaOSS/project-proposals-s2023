@@ -1,1 +1,10 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Scrapy
+
+[![](https://img.shields.io/badge/Scrapy-docs-green)](https://docs.scrapy.org/en/latest/)
+[![](https://img.shields.io/badge/Scrapy-repo-blue)](https://github.com/scrapy/scrapy)
+
+scrapy is a fast and high-level crawling and webscraping framework for python
+
+## Issues
+
+- CrawlTestCase.test_start_requests_lazyness is flaky](<https://github.com/scrapy/scrapy/issues/5703>)
