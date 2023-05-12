@@ -4,7 +4,7 @@
 
 Project Repo: [link](https://github.com/ShivanshSrivastava1/ez-parse)
 
-![](https://github.com/ShivanshSrivastava1/ez-parse/actions/workflows/build.yml/badge.svg)
+[![Build Status](https://github.com/ShivanshSrivastava1/ez-parse/actions/workflows/build.yml/badge.svg)](https://github.com/ShivanshSrivastava1/ez-parse/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![PyPI](https://img.shields.io/pypi/v/ez_parse)](https://pypi.org/project/ez-parse/0.1.2/)
 [![docs](https://img.shields.io/badge/docs-passing-brightgreen)](https://shivanshsrivastava1.github.io/ez-parse/)
