@@ -1,3 +1,15 @@
+# Itzma Lint
+
+[Github Repo](https://github.com/tchitrakorn/itzma-lint)
+
+![GitHub](https://img.shields.io/github/license/tchitrakorn/itzma-lint)
+![GitHub issues](https://img.shields.io/github/issues/tchitrakorn/itzma-lint)
+[![Itzma workflow](https://github.com/tchitrakorn/itzma-lint/actions/workflows/test.yml/badge.svg)](https://github.com/tchitrakorn/itzma-lint/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/tchitrakorn/itzma-lint/branch/main/graph/badge.svg?token=46KL4N7H8P)](https://codecov.io/gh/tchitrakorn/itzma-lint)
+[![PyPI](https://img.shields.io/pypi/v/itzma-lint)](https://pypi.org/project/itzma-lint/)
+[![Docs](https://img.shields.io/badge/docs-link-blue)](https://tchitrakorn.github.io/itzma-lint/)
+
+
 <h1 align="center"> ⭑･ﾟﾟ･*:༅｡.｡༅:*ﾟ:*:✼✿ &ensp; ITZMA Lint (It's my lint!) &ensp; ✿✼:*ﾟ:༅｡.｡༅:*･ﾟﾟ･⭑ </h1>
 <p align="center"> "Your Lint, Your Rules" </p>
 
