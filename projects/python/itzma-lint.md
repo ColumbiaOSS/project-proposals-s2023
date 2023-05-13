@@ -9,7 +9,6 @@
 [![PyPI](https://img.shields.io/pypi/v/itzma-lint)](https://pypi.org/project/itzma-lint/)
 [![Docs](https://img.shields.io/badge/docs-link-blue)](https://tchitrakorn.github.io/itzma-lint/)
 
-
 <h1 align="center"> ⭑･ﾟﾟ･*:༅｡.｡༅:*ﾟ:*:✼✿ &ensp; ITZMA Lint (It's my lint!) &ensp; ✿✼:*ﾟ:༅｡.｡༅:*･ﾟﾟ･⭑ </h1>
 <p align="center"> "Your Lint, Your Rules" </p>
 
