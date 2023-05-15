@@ -1,5 +1,12 @@
 # Implementation of Poseidon Hash Function in Solidity
 
+[![Build Status](https://github.com/yuriko627/poseidon-sol/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/yuriko627/poseidon-sol/actions?query=workflow%3A%22Build+Status%2)
+![](https://img.shields.io/hexpm/l/plug?color=green)
+[![npm](https://img.shields.io/npm/v/poseidon-sol)](https://www.npmjs.com/package/poseidon-sol)
+[![Documentation Status](https://readthedocs.org/projects/poseidon-sol/badge/?version=latest)](https://poseidon-sol.readthedocs.io/en/latest/?badge=latest)
+
+## [GitHub repository](https://github.com/yuriko627/poseidon-sol)
+
 ## Description
 
 poseidon hash function: <https://www.poseidon-hash.info/home>
