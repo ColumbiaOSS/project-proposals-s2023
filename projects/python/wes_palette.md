@@ -8,7 +8,7 @@
 
 ## Description
 
-'wes-palette' is a matplotlib extension with color palettes from Wes Anderson films. 
+'wes-palette' is a matplotlib extension with color palettes from Wes Anderson films.
 
 ### Features
 
