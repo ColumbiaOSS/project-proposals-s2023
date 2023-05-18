@@ -1,4 +1,4 @@
-# Issue to solve:
+# Issue to solve
 
 [link](https://github.com/PetrochukM/PyTorch-NLP/issues/109)
 
