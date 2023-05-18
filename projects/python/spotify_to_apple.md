@@ -1,5 +1,10 @@
 # Spotify to Apple Music Converter
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://github.com/Beza4598/spotify_apple_converter/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/Beza4598/spotify_apple_converter/actions?query=workflow%3A%22Build+Status%22)
+[![PyPI](https://img.shields.io/pypi/v/spotify-to-apple-py)](https://pypi.org/project/apple-music-python/)
+[![Github Page](https://img.shields.io/badge/%20doc-github%20page-%231674b1?style=flat&labelColor=ef8336)](https://spotify-apple-converter.readthedocs.io/en/latest/)
+
 [Project repo](https://github.com/Beza4598/spotify_apple_converter.git)
 
 For my project, I want to build a two way converter from Apple Music to Spotify and vice-versa. One of the challenges with migrating to a music streaming platfrom
