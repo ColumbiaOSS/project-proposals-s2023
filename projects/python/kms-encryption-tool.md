@@ -14,7 +14,6 @@ Primary Goals/Requirments:
 
 4. Exposes library functions that can be used in other tools for quick enryption and decryption.
 
-
 ## Project Link
 
 [AWS KET](https://github.com/sayefiqb/aws-ket)
