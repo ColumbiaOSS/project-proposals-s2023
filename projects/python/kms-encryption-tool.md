@@ -2,17 +2,17 @@
 
 ## Description
 
-KET (KMS Encryption Tool) uses AWS KMS Key to encrypt and decrypt files/contents based on user provided keys and push them to a datastore backend (S3, RDS or DynamoDB).
+KET (KMS Encryption Tool) uses AWS KMS Key to encrypt and decrypt files/contents based on user provided keys and push them to a datastore backend (S3).
 
 Primary Goals/Requirments:
 
-1. Use KMS Boto3 to encrypt and decrypt string/files with user provided or default key.
+1. Use KMS Boto3 library to encrypt and decrypt string/files with user provided kms key.
 
-2. Allow user to decrypt the file or content using the key
+2. Push ecrypted file to S3.
 
-3. Push ecrypted file to S3, RDS (optional) or DynamoDB Table (Optional).
+3. Allow user to download and decrypt the file or content using the key.
 
-4. Choose the key you want to use to encrypt (searchable by name or tag)
+4. Exposes library functions that can be used in other tools for quick enryption and decryption.
 
 ## Project Link
 
