@@ -10,10 +10,10 @@
 ![ReadTheDocs](https://readthedocs.org/projects/directreport/badge/?version=latest)
 [![PyPI version](https://badge.fury.io/py/DirectReport.svg)](https://badge.fury.io/py/DirectReport)
 
-# Overview
+## Overview
 
 Keep track of your accomplishments each day of the workweek, create a report of things you accomplished at the end of the week that you can email to manager.  Review progress each quarterly for more effective performance review.
 
-## Documentation 
+## Documentation
 
 [Github Page](https://chriswebb09.github.io/DirectReport/)
